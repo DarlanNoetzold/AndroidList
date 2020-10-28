@@ -6,7 +6,5 @@
 * O projeto é um aplicativo Android que tem como objetico ser uma simples lista com informações pessoais.
 * As informações implementadas são: Nome, E-mail e Telefone.
 * É possível adicionar, editar o remover items da lista.
-<p style="border-radius: 5px;float:left;>
-  <img src="https://github.com/DarlanNoetzold/AndroidList/blob/main/AndroidList01.jpg">
-  <img src="https://github.com/DarlanNoetzold/AndroidList/blob/main/AndroidList02.jpg">
-</p>
+<img src="https://github.com/DarlanNoetzold/AndroidList/blob/main/AndroidList01.jpg"> <img src="https://github.com/DarlanNoetzold/AndroidList/blob/main/AndroidList02.jpg">
+
