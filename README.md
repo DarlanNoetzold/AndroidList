@@ -10,3 +10,6 @@
 
 <img src="https://github.com/DarlanNoetzold/AndroidList/blob/main/AndroidList01.jpg"> <img src="https://github.com/DarlanNoetzold/AndroidList/blob/main/AndroidList02.jpg">
 
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
